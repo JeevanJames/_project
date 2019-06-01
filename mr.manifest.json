@@ -1,0 +1,12 @@
+{
+    "repos": {
+        "GitHub/ConsoleFx": {
+            "repo": "https://github.com/JeevanJames/ConsoleFx.git",
+            "tags": ["dotnet", "library", "jeevanjames"]
+        },
+        "Swagen/swagen": {
+            "repo": "https://github.com/swagen/swagen.git",
+            "tags": ["node", "tool", "swagen"]
+        }
+    }
+}

@@ -1,12 +1,54 @@
 {
     "repos": {
-        "GitHub/ConsoleFx": {
-            "repo": "https://github.com/JeevanJames/ConsoleFx.git",
-            "tags": ["dotnet", "library", "jeevanjames"]
+        "Basics": {
+            "type": "git",
+            "repo": "https://github.com/JeevanJames/Basics.git",
+            "tags": ["dotnet", "library"]
         },
-        "Swagen/swagen": {
-            "repo": "https://github.com/swagen/swagen.git",
-            "tags": ["node", "tool", "swagen"]
+        "CodeBits": {
+            "type": "git",
+            "repo": "https://github.com/JeevanJames/CodeBits.git",
+            "tags": ["dotnet", "code"]
+        },
+        "codewriter": {
+            "type": "git",
+            "repo": "https://github.com/JeevanJames/codewriter.git",
+            "tags": ["node", "library"]
+        },
+        "Collections": {
+            "type": "git",
+            "repo": "https://github.com/JeevanJames/Collections.git",
+            "tags": ["dotnet", "library"]
+        },
+        "ConsoleFx": {
+            "type": "git",
+            "repo": "https://github.com/JeevanJames/ConsoleFx.git",
+            "tags": ["dotnet", "library"]
+        },
+        "Id3": {
+            "type": "git",
+            "repo": "https://github.com/JeevanJames/Id3.git",
+            "tags": ["dotnet", "library"]
+        },
+        "IniFile": {
+            "type": "git",
+            "repo": "https://github.com/JeevanJames/IniFile.git",
+            "tags": ["dotnet", "library"]
+        },
+        "MultiRepo": {
+            "type": "git",
+            "repo": "https://github.com/JeevanJames/MultiRepo.git",
+            "tags": ["dotnet", "tool"]
+        },
+        "script-playground": {
+            "type": "git",
+            "repo": "https://github.com/JeevanJames/script-playground.git",
+            "tags": ["node", "tool"]
+        },
+        "Xunit.DataAttributes": {
+            "type": "git",
+            "repo": "https://github.com/JeevanJames/Xunit.DataAttributes.git",
+            "tags": ["dotnet", "library"]
         }
     }
 }

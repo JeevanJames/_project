@@ -13,7 +13,7 @@
         "swagen-csharp-language": {
             "type": "git",
             "repo": "https://github.com/swagen/swagen-csharp-language.git",
-            "tags": ["language"]
+            "tags": ["language", "dotnet", "csharp"]
         },
         "swagen-dotnet-httpclient": {
             "type": "git",
@@ -43,7 +43,7 @@
         "swagen-typescript-language": {
             "type": "git",
             "repo": "https://github.com/swagen/swagen-typescript-language.git",
-            "tags": ["language"]
+            "tags": ["language", "node", "typescript"]
         },
         "demo": {
             "type": "git",

@@ -1,54 +1,59 @@
 {
     "repos": {
-        "Basics": {
+        "swagen": {
             "type": "git",
-            "repo": "https://github.com/JeevanJames/Basics.git",
-            "tags": ["dotnet", "library"]
+            "repo": "https://github.com/swagen/swagen.git",
+            "tags": ["tool"]
         },
-        "CodeBits": {
+        "swagen-angular": {
             "type": "git",
-            "repo": "https://github.com/JeevanJames/CodeBits.git",
-            "tags": ["dotnet", "code"]
+            "repo": "https://github.com/swagen/swagen-angular.git",
+            "tags": ["generator"]
         },
-        "codewriter": {
+        "swagen-csharp-language": {
             "type": "git",
-            "repo": "https://github.com/JeevanJames/codewriter.git",
-            "tags": ["node", "library"]
+            "repo": "https://github.com/swagen/swagen-csharp-language.git",
+            "tags": ["language"]
         },
-        "Collections": {
+        "swagen-dotnet-httpclient": {
             "type": "git",
-            "repo": "https://github.com/JeevanJames/Collections.git",
-            "tags": ["dotnet", "library"]
+            "repo": "https://github.com/swagen/swagen-dotnet-httpclient.git",
+            "tags": ["generator"]
         },
-        "ConsoleFx": {
+        "swagen-dotnet-webapi": {
             "type": "git",
-            "repo": "https://github.com/JeevanJames/ConsoleFx.git",
-            "tags": ["dotnet", "library"]
+            "repo": "https://github.com/swagen/swagen-dotnet-webapi.git",
+            "tags": ["generator"]
         },
-        "Id3": {
+        "swagen-ng1-http": {
             "type": "git",
-            "repo": "https://github.com/JeevanJames/Id3.git",
-            "tags": ["dotnet", "library"]
+            "repo": "https://github.com/swagen/swagen-ng1-http.git",
+            "tags": ["generator"]
         },
-        "IniFile": {
+        "swagen-ng2-http": {
             "type": "git",
-            "repo": "https://github.com/JeevanJames/IniFile.git",
-            "tags": ["dotnet", "library"]
+            "repo": "https://github.com/swagen/swagen-ng2-http.git",
+            "tags": ["generator"]
         },
-        "MultiRepo": {
+        "swagen-protobuf": {
             "type": "git",
-            "repo": "https://github.com/JeevanJames/MultiRepo.git",
-            "tags": ["dotnet", "tool"]
+            "repo": "https://github.com/swagen/swagen-protobuf.git",
+            "tags": ["generator"]
         },
-        "script-playground": {
+        "swagen-typescript-language": {
             "type": "git",
-            "repo": "https://github.com/JeevanJames/script-playground.git",
-            "tags": ["node", "tool"]
+            "repo": "https://github.com/swagen/swagen-typescript-language.git",
+            "tags": ["language"]
         },
-        "Xunit.DataAttributes": {
+        "demo": {
             "type": "git",
-            "repo": "https://github.com/JeevanJames/Xunit.DataAttributes.git",
-            "tags": ["dotnet", "library"]
-        }
+            "repo": "https://github.com/swagen/demo.git",
+            "tags": ["demo"]
+        },
+        "generator-swagen": {
+            "type": "git",
+            "repo": "https://github.com/swagen/generator-swagen.git",
+            "tags": ["yeoman"]
+        },
     }
 }

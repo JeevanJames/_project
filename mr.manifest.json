@@ -25,16 +25,6 @@
             "repo": "https://github.com/swagen/swagen-dotnet-webapi.git",
             "tags": ["generator"]
         },
-        "swagen-ng1-http": {
-            "type": "git",
-            "repo": "https://github.com/swagen/swagen-ng1-http.git",
-            "tags": ["generator"]
-        },
-        "swagen-ng2-http": {
-            "type": "git",
-            "repo": "https://github.com/swagen/swagen-ng2-http.git",
-            "tags": ["generator"]
-        },
         "swagen-protobuf": {
             "type": "git",
             "repo": "https://github.com/swagen/swagen-protobuf.git",
@@ -49,11 +39,6 @@
             "type": "git",
             "repo": "https://github.com/swagen/demo.git",
             "tags": ["demo"]
-        },
-        "generator-swagen": {
-            "type": "git",
-            "repo": "https://github.com/swagen/generator-swagen.git",
-            "tags": ["yeoman"]
-        },
+        }
     }
 }

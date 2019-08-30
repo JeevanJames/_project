@@ -1,5 +1,5 @@
 {
-	"description": "Jeevan's GitHub projects",
+    "description": "Jeevan's GitHub projects",
     "repos": {
         "Basics": {
             "type": "git",
@@ -19,27 +19,27 @@
         "Collections": {
             "type": "git",
             "repo": "https://github.com/JeevanJames/Collections.git",
-            "tags": ["dotnet", "library"]
+            "tags": ["dotnet", "dotnet-core", "library"]
         },
         "ConsoleFx": {
             "type": "git",
             "repo": "https://github.com/JeevanJames/ConsoleFx.git",
-            "tags": ["dotnet", "library"]
+            "tags": ["dotnet", "dotnet-core", "library"]
         },
         "Id3": {
             "type": "git",
             "repo": "https://github.com/JeevanJames/Id3.git",
-            "tags": ["dotnet", "library"]
+            "tags": ["dotnet", "dotnet-core", "library"]
         },
         "IniFile": {
             "type": "git",
             "repo": "https://github.com/JeevanJames/IniFile.git",
-            "tags": ["dotnet", "library"]
+            "tags": ["dotnet", "dotnet-core", "library"]
         },
         "MultiRepo": {
             "type": "git",
             "repo": "https://github.com/JeevanJames/MultiRepo.git",
-            "tags": ["dotnet", "tool"]
+            "tags": ["dotnet", "dotnet-core", "tool"]
         },
         "script-playground": {
             "type": "git",
@@ -49,7 +49,7 @@
         "Xunit.DataAttributes": {
             "type": "git",
             "repo": "https://github.com/JeevanJames/Xunit.DataAttributes.git",
-            "tags": ["dotnet", "library"]
+            "tags": ["dotnet", "dotnet-core", "library"]
         }
     }
 }

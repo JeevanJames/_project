@@ -26,6 +26,11 @@
             "repo": "https://github.com/JeevanJames/ConsoleFx.git",
             "tags": ["dotnet", "dotnet-core", "library"]
         },
+        "ConsoleFx.Templates": {
+            "type": "git",
+            "repo": "https://github.com/JeevanJames/ConsoleFx.Templates.git",
+            "tags": ["dotnet", "dotnet-core", "template"]
+        },
         "Id3": {
             "type": "git",
             "repo": "https://github.com/JeevanJames/Id3.git",
